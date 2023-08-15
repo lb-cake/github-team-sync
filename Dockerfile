@@ -1,4 +1,4 @@
-FROM python:3.9-alpine
+FROM python:3.9-slim
 
 LABEL version="2.7"
 LABEL description="LDAP Team Sync for GitHub"
